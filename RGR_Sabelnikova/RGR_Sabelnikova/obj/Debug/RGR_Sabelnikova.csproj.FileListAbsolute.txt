@@ -1,0 +1,13 @@
+D:\Word_2\RGR_Sabelnikova\RGR_Sabelnikova\bin\Debug\RGR_Sabelnikova.exe.config
+D:\Word_2\RGR_Sabelnikova\RGR_Sabelnikova\bin\Debug\RGR_Sabelnikova.exe
+D:\Word_2\RGR_Sabelnikova\RGR_Sabelnikova\bin\Debug\RGR_Sabelnikova.pdb
+D:\Word_2\RGR_Sabelnikova\RGR_Sabelnikova\obj\Debug\RGR_Sabelnikova.csproj.AssemblyReference.cache
+D:\Word_2\RGR_Sabelnikova\RGR_Sabelnikova\obj\Debug\RGR_Sabelnikova.csproj.SuggestedBindingRedirects.cache
+D:\Word_2\RGR_Sabelnikova\RGR_Sabelnikova\obj\Debug\RGR_Sabelnikova.Form1.resources
+D:\Word_2\RGR_Sabelnikova\RGR_Sabelnikova\obj\Debug\RGR_Sabelnikova.Properties.Resources.resources
+D:\Word_2\RGR_Sabelnikova\RGR_Sabelnikova\obj\Debug\RGR_Sabelnikova.csproj.GenerateResource.cache
+D:\Word_2\RGR_Sabelnikova\RGR_Sabelnikova\obj\Debug\RGR_Sabelnikova.csproj.CoreCompileInputs.cache
+D:\Word_2\RGR_Sabelnikova\RGR_Sabelnikova\obj\Debug\RGR_Sabelnikova.exe
+D:\Word_2\RGR_Sabelnikova\RGR_Sabelnikova\obj\Debug\RGR_Sabelnikova.pdb
+D:\Word_2\RGR_Sabelnikova\RGR_Sabelnikova\obj\Debug\RGR_Sabelnikova.Form2.resources
+D:\Word_2\RGR_Sabelnikova\RGR_Sabelnikova\obj\Debug\RGR_Sabelnikova.AnimalsBatle.resources
